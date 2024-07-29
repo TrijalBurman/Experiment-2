@@ -6,6 +6,7 @@ The aim of this program is to determine and print the size of various data types
 **Data Types and Variables:**
 
 Variables a, b, c, d, e, f, g, h, and i are declared to represent different data types (char, int, short int, long int, float, double, long double, bool, wchar_t respectively).
+
 **Sizeof Operator:**
 
 The sizeof operator is used to determine the size of each variable in bytes.
